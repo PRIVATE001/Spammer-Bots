@@ -12,4 +12,6 @@ $ cd Spammer-Bots
 
 $ python3 Delete.py
 
+To get out :- CTRL + C
+
 Don't forget to share the tool with friends 🌲
